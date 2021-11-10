@@ -1040,7 +1040,7 @@
         },
         {
           "abbreviation" : "USC",
-          "prestige" : "71",
+          "prestige" : "80",
           "hexColor" : "#990000",
           "rival" : "UCLA",
           "headCoach" : {
@@ -1064,7 +1064,7 @@
         },
         {
           "abbreviation" : "UCLA",
-          "prestige" : "73",
+          "prestige" : "85",
           "hexColor" : "#2774AE",
           "rival" : "USC",
           "headCoach" : {
@@ -1136,7 +1136,7 @@
         },
         {
           "abbreviation" : "STAN",
-          "prestige" : "81",
+          "prestige" : "84",
           "hexColor" : "#8C1515",
           "rival" : "CAL",
           "headCoach" : {
