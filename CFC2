@@ -255,9 +255,9 @@
           "hexColor" : "#00274C",
           "rival" : "MSU",
           "headCoach" : {
-            "contractLength" : "20",
+            "contractLength" : "8",
             "startYear" : "2020",
-            "age" : "33",
+            "age" : "35",
             "ratOff" : "99",
             "cumulativePrestige" : "99",
             "ratDef" : "99",
